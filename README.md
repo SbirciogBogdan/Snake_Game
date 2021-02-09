@@ -2,9 +2,8 @@
 
 ## Description
 
-Online web-application written in Java, using Maven, Java Servlets, PostgreSQL and JUnit,
-where users can browse products, add them into a shopping cart, checkout items and
-make payments.
+Snake game where two snakes can shoot eachother and powerups appear on the map, the competition between them is made by points, which appears on the score table, next to snakes life bars. Application made using Java and Maven.
+
 
 ## Development
 
